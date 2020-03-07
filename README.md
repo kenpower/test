@@ -10,11 +10,11 @@
 
 ## Developer information
 
-### Prerequisites
+### Prerequisites
 
-Install node & npm : https://nodejs.org/en/
+Install node & npm [from here](https://nodejs.org/en/)
 
-Install expo-cli :  "npm install -g expo-cli"
+Install expo-cli :  `npm install -g expo-cli`
 
 Install the Expo client app on your android/IOS device
 
@@ -35,6 +35,7 @@ Android: In Expo client app, open QR code
 
 ## Application Files
 
+```
 celiapp
     ./package.json		NPM Installation Module
     ./app.json			Application Configuration
@@ -65,22 +66,25 @@ celiapp/src/screens
     ./***.js			MainTabNavigator Screens
     ./***/***.js		Sub Screens, Dialogs, ...
     
-    
+```
+
 ### Tools & Tutorails
 
-REACT NATIVE: 		https://facebook.github.io/react-native/docs/getting-started
-EXPO: 			https://expo.io
-JEST:			https://jestjs.io
-Android Studio: 	https://developer.android.com/studio
-Icons Library: 		https://ionicons.com
-Import Organizer: 	https://github.com/tleunen/babel-plugin-module-resolver
-Tortoise GitSVN: 	https://tortoisegit.org
-EXPO-SQLite:		https://github.com/expo/expo/tree/master/packages/expo-sqlite
+* REACT NATIVE: 		https://facebook.github.io/react-native/docs/getting-started
+* EXPO: 			https://expo.io
+* JEST:			https://jestjs.io
+* Android Studio: 	https://developer.android.com/studio
+* Icons Library: 		https://ionicons.com
+* Import Organizer: 	https://github.com/tleunen/babel-plugin-module-resolver
+* Tortoise GitSVN: 	https://tortoisegit.org
+* EXPO-SQLite:		https://github.com/expo/expo/tree/master/packages/expo-sqlite
 
 
 ### Useful Git Commands
 
+```
 git pull			update repo from master
 git commit -m "Commit Message"	commit local changes to repo
 git push			push local repo to master
 // ... merge & pull request?
+```
