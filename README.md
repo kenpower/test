@@ -1,6 +1,8 @@
 ![Project Logo](/github_images/combined_logos.png)
 
-# CELI APP
+# Celiapp
+
+An app to help people with [coeliac_disease](https://en.wikipedia.org/wiki/Coeliac_disease) control their intake of gluten.
 
 ## Project information
 						  
