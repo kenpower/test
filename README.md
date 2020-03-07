@@ -1,4 +1,4 @@
-![Project Logo](/github_images/combined_logos.png)
+![Project Logo](/.github/logos/combined_logos.png)
 
 # Celiapp
 
